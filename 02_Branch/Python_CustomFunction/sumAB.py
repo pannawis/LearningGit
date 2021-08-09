@@ -10,7 +10,6 @@ out_sum = wedoFunc.sum(a,b)
 # multiply
 
 # divided
-
-
+out_divided = wedoFunc.divided(a,b)
 
 
