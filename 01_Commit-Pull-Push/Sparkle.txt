@@ -1,2 +1,5 @@
 Name: Kunanon Phattaravatin
 
+AGE: 22
+
+Hobby: eIEIE
