@@ -8,6 +8,7 @@ b=10
 out_sum = wedoFunc.sum(a,b)
 
 # multiply
+out_multiply = wedoFunc.multiple(a,b)
 
 # divided
 
