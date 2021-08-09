@@ -11,7 +11,6 @@ out_sum = wedoFunc.sum(a,b)
 out_multiply = wedoFunc.multiple(a,b)
 
 # divided
-
-
+out_divided = wedoFunc.divided(a,b)
 
 
