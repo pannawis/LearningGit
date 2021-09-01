@@ -27,8 +27,7 @@ def divided(a,b):
 # RMS
 def rms(a,b) : 
 
-    out = sqrt((a**2 + b**2)/2)
-
+    out = ((a**2 + b**2)/2)**(1/2)
     return out
 
     
