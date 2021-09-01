@@ -18,3 +18,5 @@ out_sumSQ = wedoFunc.sum_squre(a,b)
 print(out_sumSQ)
 
 # Root mean square
+out_rms = wedoFunc.rms(a,b)
+print(out_rms)

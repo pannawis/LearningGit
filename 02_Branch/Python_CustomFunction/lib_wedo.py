@@ -30,7 +30,10 @@ def sum_squre(a,b):
     return out 
 
 # RMS
+def rms(a,b) : 
 
+    out = ((a**2 + b**2)/2)**(1/2)
+    return out
 
     
 
