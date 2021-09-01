@@ -14,5 +14,7 @@ out_multiply = wedoFunc.multiple(a,b)
 out_divided = wedoFunc.divided(a,b)
 
 # Sum square
+out_sumSQ = wedoFunc.sum_squre(a,b)
+print(out_sumSQ)
 
 # Root mean square

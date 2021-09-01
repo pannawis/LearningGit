@@ -23,6 +23,11 @@ def divided(a,b):
     return out      # Return divided result
 
 # sum square
+def sum_squre(a,b):
+    sum = a + b     # sum 
+    out = sum**2    # squre
+
+    return out 
 
 # RMS
 
