@@ -22,8 +22,9 @@ def divided(a,b):
     
     return out      # Return divided result
 
+# sum square
 
-
+# RMS
 
 
     
