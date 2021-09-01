@@ -1,3 +1,5 @@
 Name: Sukit Meeprasertsagool
 
 Age:21
+
+Hobby: Cooking
